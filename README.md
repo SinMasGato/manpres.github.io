@@ -9,7 +9,7 @@ PrestaShop es una plataforma de comercio electrónico de código abierto para cr
 
 
 ## Demo
-Accede a la documentación en vivo: [https://github.com/SinMasGato/prestashop.git](https://github.com/SinMasGato/prestashop.git)
+Accede a la documentación en vivo: [https://sinmasgato.github.io/manpres.github.io/]
 
 ## Tecnologías
 - HTML5
